@@ -10,3 +10,7 @@ function lifePoints() {
 function myOtherName(secondName) {
   return secondName;
 }
+
+function hello(world) {
+  return world;
+}
